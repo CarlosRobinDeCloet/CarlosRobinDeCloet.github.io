@@ -120,11 +120,12 @@ nav a:hover {
 
 .lower-info {
 
-top: 0vh;
-width: 100vw;
-height: 80px;
+  position: relative;
+  top: 0vh;
+  width: 100vw;
+  height: 80px;
 
-border: 5px red;
-background-color: grey;
+  border: 5px red;
+  background-color: grey;
 
 }
