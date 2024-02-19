@@ -119,6 +119,8 @@ nav a:hover {
 }
 
 .lower-info {
+
+top: 100vh;
 width: 100vw;
 height: 80px;
 
