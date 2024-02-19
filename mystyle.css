@@ -117,3 +117,12 @@ nav a:hover {
   min-width: 100%;
   height: 250px;
 }
+
+.lower-info {
+width: vw;
+height: 80px;
+
+border: red;
+background-color: grey;
+
+}
