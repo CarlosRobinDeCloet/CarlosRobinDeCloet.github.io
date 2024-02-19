@@ -122,7 +122,7 @@ nav a:hover {
 width: vw;
 height: 80px;
 
-border: red;
+border: 5px red;
 background-color: grey;
 
 }
