@@ -12,6 +12,7 @@ html {
 
 nav {
     background-color: blue;
+    border: 5px outset blue;
     color: white;
     text-align: center;
     padding: 20px;
@@ -103,13 +104,12 @@ nav a:hover {
 
 .mainheader {
   position: relative;
+  margin: 0;
   width: 200px;
   height: 80px;
-  top: 0.8vh;
+  top: 25%;
   left: 10vw;
-  padding: 20px;
   color: darkred;
-  background-color: grey;
 }
 
 .bannerimage {
@@ -118,14 +118,42 @@ nav a:hover {
   height: 250px;
 }
 
-lower-info {
+.info-lower {
+
 
   position: relative;
-  top: 0vh;
-  width: 100vw;
-  height: 80px;
+  bottom: 0;
+  width: 100%;
+  height: 180px;
 
-  border: 5px red;
   background-color: grey;
+}
 
+.info-lower-leftbox {
+
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  top: 30px;
+  left: 20vw;
+  height: 50px;
+  width: 20vw;
+
+}
+
+.info-lower-rightbox {
+
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  top: 30px;
+  left: 50vw;
+  height: 50px;
+  width: 20vw;
+
+}
+
+.info-lower-text {
+  color: white;
+  font-weight: bold;
 }
