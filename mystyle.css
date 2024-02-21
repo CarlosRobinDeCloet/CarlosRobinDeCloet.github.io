@@ -33,16 +33,16 @@ nav ul li {
 }
 
 nav ul li ul li {
-  display: none;
-  text-align: center;
-  position:relative;/*position it absolutely..*/
-  left: 0;/*...align the left edge with the left edge of the parent li...*/
-  top:32px;/*...and 32px down from the top - 30px height + 2px for the border*/
-  color: black;
+    display: none;
+    text-align: center;
+    position: absolute;/*position it absolutely..*/
+    left: 0;/*...align the left edge with the left edge of the parent li...*/
+    top:32px;/*...and 32px down from the top - 30px height + 2px for the border*/
+    color: black;
 }
 
 nav ul li:hover ul li{
-  display:block
+    display:block;
 }
 
 a {
