@@ -118,6 +118,23 @@ p {
     height: 400px;
 }
 
+/* 
+Styling for mobile navigation bar
+*/
+.hamburger {
+    display: none;
+}
+
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: #101010;
+}
+
 /*
 Styling for the main section
 */
@@ -179,4 +196,36 @@ body > footer {             /* Sets footer under body*/
   position: sticky;
   top: 100vh;
 }
+
+
+/*
+Mobile settings
+*/
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+
+    .wrapper-header {
+        max-width: 600px;
+    }
+
+    .hamburger {
+        display: block;
+        cursor: pointer;
+    }
+
+    .header-nav {
+        display: none;
+    }
+
+    .main-h2 {
+        font-size:  40px;
+    }
+
+    .wrapper-footer {     /* Ideally do this with flex */
+        display: block;
+    }
+  }
 
