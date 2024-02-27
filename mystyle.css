@@ -244,6 +244,7 @@ Mobile settings
         text-align: center;
         transition: 0.3s;
         margin-bottom: 0px;
+        border-bottom: 2px solid #101010;
     }
 
     .nav-menu.active {
@@ -257,19 +258,21 @@ Mobile settings
         font-weight: bold;
         padding: 0px 10px;
         text-align: center;
+        border-bottom: 1px solid #101010
     }
 
     .nav-menu li ul { /* Styling for the dropdown options*/
         width: 50;
-        display: block; 
-        background: green;
+        display: none; 
+        background: white;
         z-index: 999;
         position: relative;
         top: 0px;
-        box-shadow: 0px 2px 2px lightgray;
+        box-shadow: 0px 0px 0px white;
         padding: 0px 0px 0px;
         width: auto;
         height: auto;
+        border-bottom: 1px solid #101010
     }
 
     .main-h2 {
