@@ -60,14 +60,14 @@ p {
     height: 120px;
 }
 
-.nav-menu {
+.nav-menu-desktop {
     display: flex;
     justify-content: center;
     width: 900px;
     list-style: none;
 }
 
-.nav-menu li {
+.nav-menu-desktop li {
     display: inline-block;
     font: arial;
     font-size: 32px;
@@ -76,7 +76,7 @@ p {
     text-align: center;
 }
   
-.nav-menu li a {
+.nav-menu-desktop li a {
     display: block;
     color: lightslategray;
     text-decoration: none;
@@ -85,11 +85,11 @@ p {
     font-size: 25px;
  }
   
-.nav-menu li ul li a {
+.nav-menu-desktop li ul li a {
     font-size: 15px;
 }
   
-.nav-menu li ul { /* Styling for the dropdown options*/
+.nav-menu-desktop li ul { /* Styling for the dropdown options*/
     width: 200px;
     display: none; 
     background: white;
@@ -102,12 +102,12 @@ p {
     height: auto;
 }
   
-.nav-menu li ul li {
+.nav-menu-desktop li ul li {
     display: block;
 }
   
   
-.nav-menu li:hover ul {
+.nav-menu-desktop li:hover ul {
     display: block;
 }
 
@@ -215,6 +215,10 @@ Mobile settings
         z-index: 999;
     }
 
+    .nav-menu-desktop {
+        display: none;
+    }
+
     .hamburger {
         display: block;
         cursor: pointer;
@@ -233,7 +237,7 @@ Mobile settings
     }
 
 
-    .nav-menu {
+    .nav-menu-mobile {
         position: fixed;
         left: -130%;
         top:  100px;
@@ -247,23 +251,25 @@ Mobile settings
         border-bottom: 2px solid #101010;
     }
 
-    .nav-menu.active {
+    .nav-menu-mobile.active {
         left: 0;
     }
 
-    .nav-menu li {
-        display: inline-block;
+    .nav-menu-mobile li {
+        display: block;
         font: arial;
         font-size: 16px;
         font-weight: bold;
         padding: 0px 10px;
-        text-align: center;
+        text-align: left;
         border-bottom: 1px solid #101010
     }
 
-    .nav-menu li ul { /* Styling for the dropdown options*/
+
+
+    .nav-submenu-mobile-li { /* Styling for the dropdown options*/
         width: 50;
-        display: none; 
+        display: block; 
         background: white;
         z-index: 999;
         position: relative;
@@ -273,6 +279,14 @@ Mobile settings
         width: auto;
         height: auto;
         border-bottom: 1px solid #101010
+    }
+
+    .nav-submenu-list-mobile {
+        display: none;
+    }
+
+    .nav-submenu-list-mobile.active {
+        display: block;
     }
 
     .main-h2 {
