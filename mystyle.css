@@ -287,12 +287,15 @@ Mobile settings
 
 
     .nav-submenu-list-mobile {
-        display: none;
+        height: 0;
+        opacity: 0;
+        transition: 0.3s;
     }
     
 
     .nav-submenu-list-mobile.active {
-        display: block;
+        height: 75px;
+        opacity: 1;
     }
 
     .main-h2 {
