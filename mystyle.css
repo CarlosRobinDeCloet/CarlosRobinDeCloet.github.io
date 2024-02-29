@@ -258,11 +258,19 @@ Mobile settings
     .nav-menu-mobile li {
         display: block;
         font: arial;
-        font-size: 16px;
+        font-size: 20px;
         font-weight: bold;
         padding: 0px 10px;
         text-align: left;
         border-bottom: 1px solid #101010
+    }
+
+    .nav-menu-mobile li a {
+        display: block;
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+        text-align: left;
     }
 
 
@@ -277,10 +285,16 @@ Mobile settings
         padding: 0px 0px 0px;
         width: auto;
         height: auto;
-        margin-top: 10px;
-        margin-bottom: 10px;
         border-bottom: 1px solid #101010;
     }
+
+    .nav-submenu-list-mobile li a {
+        display: block;
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+        text-align: left;
+     }
 
 
     .nav-submenu-list-mobile {
@@ -290,6 +304,7 @@ Mobile settings
 
     .nav-submenu-list-mobile.active {
         display: block;
+        margin-top: 10px;
     }
 
     .main-h2 {
