@@ -249,6 +249,7 @@ Mobile settings
         transition: 0.3s;
         margin-bottom: 0px;
         border-bottom: 2px solid #101010;
+        padding-left: 0px;
     }
 
     .nav-menu-mobile.active {
@@ -260,19 +261,13 @@ Mobile settings
         font: arial;
         font-size: 20px;
         font-weight: bold;
-        padding: 0px 10px;
+        padding-left: 0px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        width: 100%;
         text-align: left;
-        border-bottom: 1px solid #101010
+        border-top: 1px solid #101010
     }
-
-    .nav-menu-mobile li a {
-        display: block;
-        color: black;
-        text-decoration: none;
-        font-weight: bold;
-        text-align: left;
-    }
-
 
     .nav-submenu-mobile-li { /* Styling for the dropdown options*/
         width: 100%;
@@ -281,11 +276,29 @@ Mobile settings
         z-index: 10;
         position: relative;
         top: 0px;
-        box-shadow: 0px 0px 0px white;
-        padding: 0px 0px 0px;
+        padding-left: 0px;
+        padding-top: 5px;
+        padding-bottom: 5px;
         width: auto;
         height: auto;
-        border-bottom: 1px solid #101010;
+        border-top: 1px solid #101010;
+        cursor: pointer;
+    }
+
+
+    .nav-submenu-list-mobile {
+        display: none;
+        padding-left: 0;
+    }
+    
+
+    .nav-submenu-list-mobile.active {
+        display: block;
+        margin-top: 10px;
+    }
+
+    .nav-submenu-list-mobile li {
+        padding-left: 70px;
     }
 
     .nav-submenu-list-mobile li a {
@@ -295,17 +308,6 @@ Mobile settings
         font-weight: bold;
         text-align: left;
      }
-
-
-    .nav-submenu-list-mobile {
-        display: none;
-    }
-    
-
-    .nav-submenu-list-mobile.active {
-        display: block;
-        margin-top: 10px;
-    }
 
     .main-h2 {
         font-size:  40px;
