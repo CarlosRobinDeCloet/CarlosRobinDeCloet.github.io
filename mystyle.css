@@ -282,23 +282,14 @@ Mobile settings
         border-bottom: 1px solid #101010;
     }
 
-    .nav-submenu-mobile li:hover{
-        background-color: lightskyblue;
-        z-index: 9999;
-    }
-
 
     .nav-submenu-list-mobile {
-        margin-top: 10px;
-        height: 0;
-        opacity: 0;
-        transition: 0.3s;
+        display: none;
     }
     
 
     .nav-submenu-list-mobile.active {
-        height: 75px;
-        opacity: 1;
+        display: block;
     }
 
     .main-h2 {
