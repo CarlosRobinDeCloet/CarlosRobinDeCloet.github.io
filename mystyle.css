@@ -47,17 +47,11 @@ p {
     justify-content: space-around;
 }
 
-.header-h1 {
-    margin-left: 40px;
-    margin-top: 10px;
-    font-weight: bold;
-    font-style: italic;
-    color: skyblue;
-    font-size: 50px;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    text-shadow: 1px 1px 1px grey;
+
+.logo {
+    width: 320px;
+    height: 110px;
+    border: 0px solid red;
 }
 
 
@@ -118,6 +112,10 @@ p {
   
 .nav-menu-desktop li:hover ul {
     display: block;
+}
+
+.nav-menu-mobile{
+    display: none;
 }
 
 .banner-image-index {
@@ -228,6 +226,15 @@ Mobile settings
 
     .nav-menu-desktop {
         display: none;
+    }
+
+    .nav-menu-mobile{
+        display: block;
+    }
+
+    .logo{
+        height: 80px;
+        width: 160px;
     }
 
     .hamburger {
