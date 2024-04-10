@@ -335,10 +335,12 @@ Mobile settings
 
     .main-h2 {
         font-size:  40px;
+        margin-left: 100px;
     }
 
     .main-h3 {
         font-size: 30px;  
+        margin-left: 100px;
     }
 
     .main-text {
