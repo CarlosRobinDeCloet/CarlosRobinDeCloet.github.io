@@ -171,7 +171,6 @@ Styling for the main section
     color: darkslategray;
     font-size: 60px;
     font-weight: bold;
-
 }
 
 /*
@@ -342,8 +341,15 @@ Mobile settings
         font-size: 30px;  
     }
 
+    .main-text {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
     .wrapper-footer {     /* Ideally do this with flex */
         display: block;
     }
+
+
   }
 
