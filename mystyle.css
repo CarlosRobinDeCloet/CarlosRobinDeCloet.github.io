@@ -260,6 +260,9 @@ Mobile settings
         transform: translateY(-8px) rotate(-45deg);
     }
 
+    .navbar{
+        transition: translateY 0.2;
+    }
 
     .nav-menu-mobile {
         position: fixed;

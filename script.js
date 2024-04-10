@@ -48,6 +48,8 @@ window.addEventListener('scroll',function(){
   
   if(scrollTop > 480){ //if it will be greater than the previous
     navbar.style.top='-800px';
+    hamburger.classList.remove("active");
+    navMenu.classList.remove("active");
     //set the value to the negetive of height of navbar 
   }
   
@@ -55,7 +57,7 @@ window.addEventListener('scroll',function(){
     navbar.style.top='0';
   }
   
-  lastScrollTop = scrollTop; //New Position Stored
+  lastScrollTop = scrollTop;
 });
 
 
