@@ -335,17 +335,17 @@ Mobile settings
 
     .main-h2 {
         font-size:  40px;
-        margin-left: 10px;
+        margin-left: 30px;
     }
 
     .main-h3 {
         font-size: 30px;  
-        margin-left: 10px;
+        margin-left: 30px;
     }
 
     .main-text {
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 40px;
+        margin-right: 40px;
     }
 
     .wrapper-footer {     /* Ideally do this with flex */
