@@ -338,6 +338,10 @@ Mobile settings
         font-size:  40px;
     }
 
+    .main-h3 {
+        font-size: 30px;  
+    }
+
     .wrapper-footer {     /* Ideally do this with flex */
         display: block;
     }
