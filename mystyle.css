@@ -1,3 +1,4 @@
+
 /*
 TODO: wrapper-main, wrapper-header and wrapper-footer should use same number for max width. Use var to ensure it's the same for every class.
 TODO: Make special paragraph class for body texts.
@@ -364,16 +365,5 @@ Mobile settings
         margin-right: 20px;
     }
 
-    .banner-image-index {
-        width: 1000px;
-        height: 600px;   
-    }
-    
-    .banner-image {
-        width: 1000px;
-        height: 400px;
-    }
-
 
   }
-
