@@ -198,9 +198,9 @@ Styling for the footer.
 }
 
 .footer-textbox {
-    width: 22vw;
-    margin-left: 80px;
-    margin-right: 80px;
+    width: 30vw;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .footer-text {              /* Adjust text for paragraphs and lists in footer*/
