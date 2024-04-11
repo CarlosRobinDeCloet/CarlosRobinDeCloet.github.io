@@ -372,6 +372,7 @@ Mobile settings
     .banner-image {
         width: 1000px;
         height: 400px;
+        max-width: 100vw;
     }
 
 
