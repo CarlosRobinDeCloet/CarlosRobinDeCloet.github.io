@@ -355,6 +355,25 @@ Mobile settings
 
     .wrapper-footer {     /* Ideally do this with flex */
         display: flex;
+        flex-direction: column;
+    }
+
+    .footer-textbox {
+        width: 90vw;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .banner-image-index {
+        width: 1000px;
+        height: 600px;   
+        max-width:100%;
+    }
+    
+    .banner-image {
+        width: 1000px;
+        height: 400px;
+        max-width:100%;
     }
 
 
