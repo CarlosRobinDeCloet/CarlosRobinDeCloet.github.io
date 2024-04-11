@@ -365,15 +365,15 @@ Mobile settings
     }
 
     .banner-image-index {
-        width: 1000px;
+        width: auto;
         height: 600px;   
-        max-width:100%;
+        object-fit: cover;
     }
     
     .banner-image {
-        width: 1000px;
+        width: auto;
         height: 400px;
-        max-width:100%;
+        object-fit: cover;
     }
 
 
