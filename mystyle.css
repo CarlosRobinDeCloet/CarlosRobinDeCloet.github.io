@@ -364,6 +364,16 @@ Mobile settings
         margin-right: 20px;
     }
 
+    .banner-image-index {
+        width: 1000px;
+        height: 600px;   
+    }
+    
+    .banner-image {
+        width: 1000px;
+        height: 400px;
+    }
+
 
   }
 
