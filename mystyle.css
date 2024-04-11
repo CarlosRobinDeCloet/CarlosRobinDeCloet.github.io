@@ -126,13 +126,15 @@ p {
 }
 
 .banner-image-index {
-    width: 100vw;
     height: 600px;   
+    width: auto;
+    object-fit: contain;
 }
 
 .banner-image {
-    width: 100vw;
     height: 400px;
+    width: auto;
+    object-fit: contain;
 }
 
 /* 
