@@ -367,13 +367,13 @@ Mobile settings
     .banner-image-index {
         width: auto;
         height: 600px;   
-        object-fit: cover;
+        object-fit: contain;
     }
     
     .banner-image {
         width: auto;
         height: 400px;
-        object-fit: cover;
+        object-fit: contain;
     }
 
 
