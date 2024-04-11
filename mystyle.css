@@ -367,6 +367,7 @@ Mobile settings
     .banner-image-index {
         width: 1000px;
         height: 600px;   
+        max-width:100%;
     }
     
     .banner-image {
