@@ -127,14 +127,12 @@ p {
 
 .banner-image-index {
     height: 600px;   
-    width: auto;
-    object-fit: contain;
+    width: 100vw;
 }
 
 .banner-image {
     height: 400px;
-    width: auto;
-    object-fit: contain;
+    width: 100vw;
 }
 
 /* 
@@ -365,6 +363,18 @@ Mobile settings
         width: 90vw;
         margin-left: 20px;
         margin-right: 20px;
+    }
+
+    .banner-image-index {
+        height: 600px;   
+        width: 100vw;
+        object-fit: cover;
+    }
+    
+    .banner-image {
+        height: 400px;
+        width: 100vw;
+        object-fit: cover;
     }
 
 
