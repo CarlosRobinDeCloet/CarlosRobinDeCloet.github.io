@@ -3,10 +3,10 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="HTML, CSS">
-        <meta name="description", content="...">
+        <meta name="keywords" content="Expertises, viral, vaccins, gen therapy, therapeutic, proteins, biosimilars, experienced, consulting, consult, advice">
+        <meta name="description", content="A list of all subject our company is experienced in.">
 
-        <title>Wrapper test</title>
+        <title>Our Expertises - MDFConsulting </title>
 
         <link rel="stylesheet" href="mystyle.css">
 
@@ -27,10 +27,10 @@
                     <ul class="nav-menu-desktop">
                         <li><a href="expertises.html" class="nav-link">Expertises</a>
                             <ul>
-                                <li><a href="expertises.html#viralvaccins">- Viral Vaccines</a></li>
-                                <li><a href="expertises.html#gentherapy">- Gen Therapy</a></li>
-                                <li><a href="expertises.html#therapeuticproteins">- Therapeutic proteins</a></li>
-                                <li><a href="expertises.html#biosimilars">- Enzymes & Biosimilars</a></li>
+                                <li><a href="expertises#viralvaccins">- Viral Vaccines</a></li>
+                                <li><a href="expertises#gentherapy">- Gen Therapy</a></li>
+                                <li><a href="expertises#therapeuticproteins">- Therapeutic proteins</a></li>
+                                <li><a href="expertises#biosimilars">- Enzymes & Biosimilars</a></li>
                             </ul>
                         </li>
                         <li><a href="services.html" class="nav-link">Services</a>
@@ -53,10 +53,10 @@
                         <div id="nav-submenu-mobile1" class="nav-submenu-mobile">
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Expertises
                                 <ul id="nav-submenu-list-mobile1" class="nav-submenu-list-mobile">
-                                    <li><a href="expertises.html#viralvaccins">- Viral Vaccines</a></li>
-                                    <li><a href="expertises.html#gentherapy">- Gen Therapy</a></li>
-                                    <li><a href="expertises.html#therapeuticproteins">- Therapeutic proteins</a></li>
-                                    <li><a href="expertises.html#biosimilars">- Enzymes & Biosimilars</a></li>
+                                    <li><a href="expertises#viralvaccins">- Viral Vaccines</a></li>
+                                    <li><a href="expertises#gentherapy">- Gen Therapy</a></li>
+                                    <li><a href="expertises#therapeuticproteins">- Therapeutic proteins</a></li>
+                                    <li><a href="expertises#biosimilars">- Enzymes & Biosimilars</a></li>
                                 </ul>
                             </li>
                         </div>
