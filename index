@@ -35,15 +35,15 @@
                                 <li><a href="https://mdfconsulting.eu/expertises#biosimilars">- Enzymes & Biosimilars</a></li>
                             </ul>
                         </li>
-                        <li><a href="https://mdfconsulting.eu/services.html" class="nav-link">Services</a>
+                        <li><a href="https://mdfconsulting.eu/services" class="nav-link">Services</a>
                             <ul>
-                                <li><a href="https://mdfconsulting.eu/services.html#projectbased">- Project Based</a></li>
-                                <li><a href="https://mdfconsulting.eu/services.html#consultancy">- Consultancy</a></li>
-                                <li><a href="https://mdfconsulting.eu/services.html#procesoptimization">- Project Optimization</a></li>
-                                <li><a href="https://mdfconsulting.eu/services.html#trainings">- Trainings</a></li>
+                                <li><a href="https://mdfconsulting.eu/services#projectbased">- Project Based</a></li>
+                                <li><a href="https://mdfconsulting.eu/services#consultancy">- Consultancy</a></li>
+                                <li><a href="https://mdfconsulting.eu/services#procesoptimization">- Project Optimization</a></li>
+                                <li><a href="https://mdfconsulting.eu/services#trainings">- Trainings</a></li>
                             </ul>
                         </li>
-                        <li><a href="https://mdfconsulting.eu/company.html" class="nav-link">Company</a></li>
+                        <li><a href="https://mdfconsulting.eu/company" class="nav-link">Company</a></li>
                         <li><a href="#" class="nav-link">Contact</a>
                             <ul>
                                 <li><a href="#">Linkedin</a></li>
@@ -66,17 +66,17 @@
                         <div id="nav-submenu-mobile2" class="nav-submenu-mobile">
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Services
                                 <ul id="nav-submenu-list-mobile2" class="nav-submenu-list-mobile">
-                                    <li><a href="https://mdfconsulting.eu/services.html#projectbased">- Project Based</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services.html#consultancy">- Consultancy</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services.html#procesoptimization">- Project Optimization</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services.html#trainings">- Trainings</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#projectbased">- Project Based</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#consultancy">- Consultancy</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#procesoptimization">- Project Optimization</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#trainings">- Trainings</a></li>
                                 </ul>
                             </li>
                         </div>
                         <div id="nav-submenu-mobile3" class="nav-submenu-mobile">
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Company
                                 <ul id="nav-submenu-list-mobile3" class="nav-submenu-list-mobile">
-                                    <li><a href="https://mdfconsulting.eu/company.html">- Placeholder</a></li>
+                                    <li><a href="https://mdfconsulting.eu/company">- Placeholder</a></li>
                                 </ul>
                             </li>
                         </div>
