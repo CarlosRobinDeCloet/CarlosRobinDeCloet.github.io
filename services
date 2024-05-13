@@ -33,7 +33,7 @@
                                 <li><a href="https://mdfconsulting.eu/expertises#biosimilars">- Enzymes & Biosimilars</a></li>
                             </ul>
                         </li>
-                        <li><a href="https://mdfconsulting.eu/service" class="nav-link">Services</a>
+                        <li><a href="https://mdfconsulting.eu/services" class="nav-link">Services</a>
                             <ul>
                                 <li><a href="https://mdfconsulting.eu/services#projectbased">- Project Based</a></li>
                                 <li><a href="https://mdfconsulting.eu/services#consultancy">- Consultancy</a></li>
@@ -105,7 +105,7 @@
             
             <h2 class="main-h2" style="top: 500px">Our services</h2>
 
-            <h3 id="projectbased" class="main-h3" style="margin-top: 120px;">Project based</h3>
+            <h3 id="projectbased" class="main-h3" style="margin-top: 120px;">Processes</h3>
 
             <p class="main-text">
                 In the dynamic realm of biotechnology, success hinges on agile, targeted support. Our project-based services offer precisely that.
@@ -115,7 +115,7 @@
                  short-term solutions or long-term partnerships. Trusted by startups to global players, we accelerate innovation, mitigate risks, and optimize resources.
                 Let's collaborate to propel your biotech ambitions forward. With our project-based support, your success is our mission.</p>
 
-            <h3 id="consultancy" class="main-h3">Consultancy</h3>
+            <h3 id="consultancy" class="main-h3">Assays</h3>
 
             <p class="main-text"> 
                 Existing projects and processes often hold untapped potential for innovation and optimization.
@@ -127,7 +127,7 @@
                 Let's partner together to refine your existing projects and processes, paving the way for breakthroughs in science and technology.
             </p>
 
-            <h3 id="processoptimization" class="main-h3">Process optimization</h3>
+            <h3 id="processoptimization" class="main-h3">Process Design (Technology & Equipment)</h3>
 
             <p class="main-text"> 
                 In the fast-paced world of biotechnology, efficiency is paramount. Our process optimization services are designed
@@ -137,6 +137,12 @@
                 your team to implement changes that deliver measurable results. With our process optimization services, you'll not only enhance operational 
                 efficiency but also gain a competitive edge in the market. Let us help you unlock the full potential of your processes and propel your organization toward 
                 success in the rapidly evolving biotech industry.
+            </p>
+
+            <h3 id="batchproduction" class="main-h3">Support Batch Production</h3>
+
+            <p class="main-text"> 
+                lorem50
             </p>
 
                 
