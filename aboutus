@@ -49,8 +49,8 @@
                         <li><a href="https://mdfconsulting.eu/careers" class="nav-link">Careers</a></li>
                         <li><a href="#" class="nav-link">Contact</a>
                             <ul>
-                                <li><a href="https://mdfconsulting.eu/contact#email">Email</a></li>
-                                <li><a href="https://mdfconsulting.eu/contact#linkedin">Linkedin</a></li>
+                                <li><a href="https://mdfconsulting.eu/careers#email">Email</a></li>
+                                <li><a href="https://mdfconsulting.eu/careers#linkedin">Linkedin</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -58,7 +58,7 @@
                     <ul class="nav-menu-mobile">
                         <div id="nav-submenu-mobile5" class="nav-submenu-mobile">
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp About us
-                                <ul id="nav-submenu-list-mobile1" class="nav-submenu-list-mobile">
+                                <ul id="nav-submenu-list-mobile5" class="nav-submenu-list-mobile">
                                     <li><a href="https://mdfconsulting.eu/aboutus">-</a></li>
                                 </ul>
                             </li>
