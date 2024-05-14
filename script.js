@@ -32,7 +32,7 @@ subNavMenu4.addEventListener("click", () => {
     subNavMenuList4.classList.toggle("active");
 })
 
-subNavMenu4.addEventListener("click", () => {
+subNavMenu5.addEventListener("click", () => {
     subNavMenuList5.classList.toggle("active");
 })
 

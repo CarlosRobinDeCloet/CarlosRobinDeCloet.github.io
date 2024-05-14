@@ -49,8 +49,8 @@
                         <li><a href="https://mdfconsulting.eu/careers" class="nav-link">Careers</a></li>
                         <li><a href="#" class="nav-link">Contact</a>
                             <ul>
-                                <li><a href="#">Linkedin</a></li>
-                                <li><a href="#">Adress</a></li>
+                                <li><a href="https://mdfconsulting.eu/contact#email">Email</a></li>
+                                <li><a href="https://mdfconsulting.eu/contact#linkedin">Linkedin</a></li>
                             </ul>
                         </li>
                     </ul>
