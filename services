@@ -25,23 +25,28 @@
   
                 <nav class="header-nav">
                     <ul class="nav-menu-desktop">
+                        <li><a href="https://mdfconsulting.eu/aboutus" class="nav-link">About us</a></li>
                         <li><a href="https://mdfconsulting.eu/expertises" class="nav-link">Expertises</a>
                             <ul>
-                                <li><a href="https://mdfconsulting.eu/expertises#viralvaccins">- Viral Vaccines</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#viralvaccins">- Viral Vectors & Vaccines</a></li>
                                 <li><a href="https://mdfconsulting.eu/expertises#gentherapy">- Gen Therapy</a></li>
-                                <li><a href="https://mdfconsulting.eu/expertises#therapeuticproteins">- Therapeutic proteins</a></li>
-                                <li><a href="https://mdfconsulting.eu/expertises#biosimilars">- Enzymes & Biosimilars</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#therapeuticproteins">- Therapeutic proteins & Antibodies</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#biosimilars">- Biosimilars & Enzymes</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#bloodfactors">- Blood Factors</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#nanoparticles">- Nano Particles</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#medicaldevices">- Medical Devices</a></li>
                             </ul>
                         </li>
                         <li><a href="https://mdfconsulting.eu/services" class="nav-link">Services</a>
                             <ul>
-                                <li><a href="https://mdfconsulting.eu/services#projectbased">- Project Based</a></li>
+                                <li><a href="https://mdfconsulting.eu/services#processes">- Processes</a></li>
                                 <li><a href="https://mdfconsulting.eu/services#consultancy">- Consultancy</a></li>
                                 <li><a href="https://mdfconsulting.eu/services#processoptimization">- Process Optimization</a></li>
+                                <li><a href="https://mdfconsulting.eu/services#processoptimization">- Batch Production</a></li>
                                 <li><a href="https://mdfconsulting.eu/services#trainings">- Trainings</a></li>
                             </ul>
                         </li>
-                        <li><a href="https://mdfconsulting.eu/company" class="nav-link">Company</a></li>
+                        <li><a href="https://mdfconsulting.eu/company" class="nav-link">Careers</a></li>
                         <li><a href="#" class="nav-link">Contact</a>
                             <ul>
                                 <li><a href="#">Linkedin</a></li>
@@ -65,16 +70,17 @@
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Services
                                 <ul id="nav-submenu-list-mobile2" class="nav-submenu-list-mobile">
                                     <li><a href="https://mdfconsulting.eu/services#projectbased">- Project Based</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services#consultancy">- Consultancy</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services#processoptimization">- Process Optimization</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#assays">- Assays</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#processdesign">- Process Design</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#batchproduction">- Support Batch Production</a></li>
                                     <li><a href="https://mdfconsulting.eu/services#trainings">- Trainings</a></li>
                                 </ul>
                             </li>
                         </div>
                         <div id="nav-submenu-mobile3" class="nav-submenu-mobile">
-                            <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Company
+                            <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Careers
                                 <ul id="nav-submenu-list-mobile3" class="nav-submenu-list-mobile">
-                                    <li><a href="https://mdfconsulting.eu/company">- Placeholder</a></li>
+                                    <li><a href="https://mdfconsulting.eu/careers">- Placeholder</a></li>
                                 </ul>
                             </li>
                         </div>
@@ -105,7 +111,7 @@
             
             <h2 class="main-h2" style="top: 500px">Our services</h2>
 
-            <h3 id="projectbased" class="main-h3" style="margin-top: 120px;">Processes</h3>
+            <h3 id="processes" class="main-h3" style="margin-top: 120px;">Processes</h3>
 
             <p class="main-text">
                 In the dynamic realm of biotechnology, success hinges on agile, targeted support. Our project-based services offer precisely that.
@@ -115,7 +121,7 @@
                  short-term solutions or long-term partnerships. Trusted by startups to global players, we accelerate innovation, mitigate risks, and optimize resources.
                 Let's collaborate to propel your biotech ambitions forward. With our project-based support, your success is our mission.</p>
 
-            <h3 id="consultancy" class="main-h3">Assays</h3>
+            <h3 id="assays" class="main-h3">Assays</h3>
 
             <p class="main-text"> 
                 Existing projects and processes often hold untapped potential for innovation and optimization.
@@ -127,7 +133,7 @@
                 Let's partner together to refine your existing projects and processes, paving the way for breakthroughs in science and technology.
             </p>
 
-            <h3 id="processoptimization" class="main-h3">Process Design (Technology & Equipment)</h3>
+            <h3 id="processdesign" class="main-h3">Process Design (Technology & Equipment)</h3>
 
             <p class="main-text"> 
                 In the fast-paced world of biotechnology, efficiency is paramount. Our process optimization services are designed
