@@ -4,9 +4,9 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="keywords" content="HTML, CSS">
-        <meta name="description", content="An overview of all the services MDFConsulting offers in biotechnology.">
+        <meta name="description", content="An page with a detailed introduction on MDFConsulting.">
 
-        <title>Our offered services - MDFConsulting</title>
+        <title>About us - MDFConsulting</title>
 
         <link rel="stylesheet" href="mystyle.css">
 
@@ -90,7 +90,7 @@
                         <div id="nav-submenu-mobile3" class="nav-submenu-mobile">
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Careers
                                 <ul id="nav-submenu-list-mobile3" class="nav-submenu-list-mobile">
-                                    <li><a href="https://mdfconsulting.eu/careers"> - </a></li>
+                                    <li><a href="https://mdfconsulting.eu/careers">- Placeholder</a></li>
                                 </ul>
                             </li>
                         </div>
@@ -119,60 +119,16 @@
 
             <h2 class="main-h2" style="top: 300px"> Under construction! </h2>
             
-            <h2 class="main-h2" style="top: 500px">Our services</h2>
+            <h2 class="main-h2" style="top: 500px">About us</h2>
 
-            <h3 id="processes" class="main-h3" style="margin-top: 120px;">Processes</h3>
+            <h3 id="processes" class="main-h3" style="margin-top: 120px;">Expert in Biotechnology </h3>
 
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio eos qui, eum eaque dolorem doloribus ullam praesentium accusantium nesciunt quo animi mollitia, officia soluta autem inventore porro facere temporibus provident beatae magnam quidem ut dicta veniam! Molestiae placeat laboriosam, veniam rerum, repellat sapiente omnis nam doloribus, voluptates odit ex in?
+            
             <p class="main-text">
-                In the dynamic realm of biotechnology, success hinges on agile, targeted support. Our project-based services offer precisely that.
-                From inception to execution, our seasoned team provides tailored assistance for your biotech endeavors. Whether launching a new 
-                drug, refining processes, or conducting trials, we offer strategic guidance and hands-on expertise.
-                Flexible and scalable, our services adapt to your project's needs, whether
-                 short-term solutions or long-term partnerships. Trusted by startups to global players, we accelerate innovation, mitigate risks, and optimize resources.
-                Let's collaborate to propel your biotech ambitions forward. With our project-based support, your success is our mission.</p>
+                .</p>
 
-            <h3 id="assays" class="main-h3">Assays</h3>
 
-            <p class="main-text"> 
-                Existing projects and processes often hold untapped potential for innovation and optimization.
-                Our consultancy services specialize in unlocking this potential, offering tailored support to elevate your ongoing endeavors.
-                Whether your project requires fine-tuning to enhance efficiency, troubleshooting to overcome challenges, or strategic guidance 
-                to maximize impact, our team of experts is here to help. We work closely with your team to assess current processes, identify areas 
-                for improvement, and implement targeted solutions that drive tangible results.
-                With our collaborative approach and commitment to excellence, we empower your organization to achieve new levels of success in biotechnology.
-                Let's partner together to refine your existing projects and processes, paving the way for breakthroughs in science and technology.
-            </p>
-
-            <h3 id="processdesign" class="main-h3">Process Design (Technology & Equipment)</h3>
-
-            <p class="main-text"> 
-                In the fast-paced world of biotechnology, efficiency is paramount. Our process optimization services are designed
-                to streamline your operations, maximize productivity, and drive cost savings.
-                Using a combination of data analysis, industry expertise, and innovative approaches, we identify inefficiencies in your current processes and 
-                develop tailored solutions to address them. Whether it's reducing cycle times, minimizing waste, or improving resource utilization, we work closely with 
-                your team to implement changes that deliver measurable results. With our process optimization services, you'll not only enhance operational 
-                efficiency but also gain a competitive edge in the market. Let us help you unlock the full potential of your processes and propel your organization toward 
-                success in the rapidly evolving biotech industry.
-            </p>
-
-            <h3 id="batchproduction" class="main-h3">Support Batch Production</h3>
-
-            <p class="main-text"> 
-                lorem50
-            </p>
-
-                
-            <h3 id="trainings" class="main-h3"> Trainings</h3>
-
-            <p class="main-text"> 
-                Staying ahead in the field of biotechnology requires continuous learning and adaptation. That's why we offer comprehensive training programs in bioinformatics and career development tailored 
-                to professionals in the industry. Our bioinformatics training equips participants with essential skills in data analysis, computational biology, and genomics. 
-                Through hands-on workshops and interactive sessions led by industry experts, participants gain practical knowledge and techniques to leverage biological data effectively.
-                Additionally, our career-related training programs provide invaluable insights and strategies for navigating the diverse career paths within the biotech sector. 
-                From resume writing and interview preparation to networking and professional development, we empower individuals to advance their careers and thrive in this dynamic field.
-                Whether you're a seasoned professional looking to deepen your expertise in bioinformatics or a newcomer seeking to embark on a career in biotechnology, our training
-                programs offer the guidance and support you need to succeed. Join us in empowering excellence and shaping the future of biotechnology through continuous learning and growth.
-            </p>
 
         </div>
 
