@@ -209,17 +209,13 @@ Styling for the footer.
     font-weight: bold;
 }
 
-body > footer {             /* Sets footer under body*/
-  position: sticky;
-  top: 100vh;
-}
 
 
-carousel {
+.carousel {
     position: relative;
 }
 
-carousel__item{
+.carousel__item{
     height: 300px;
     background: grey;
     padding: 1em;
@@ -230,7 +226,7 @@ carousel__item{
     display: none;
 }
 
-carousel__item__selected {
+.carousel__item__selected {
     display: block;
 }
 
@@ -258,6 +254,11 @@ carousel__item__selected {
     background: rgba(255, 255, 255, 0.5);
 }
 
+
+body > footer {             /* Sets footer under body*/
+  position: sticky;
+  top: 100vh;
+}
 
 
 /*
