@@ -182,7 +182,7 @@
                 <div class='carousel__item'> content #3</div>
                 <div class='carousel__nav'>
                     <span class='carousel__button'></span>
-                    <span class='carousel__button' 'carousel__button__selected'></span>
+                    <span class='carousel__button carousel__button__selected'></span>
                     <span class='carousel__button'></span>
                 </div>
 
