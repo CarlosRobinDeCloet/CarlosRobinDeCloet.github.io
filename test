@@ -3,12 +3,10 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="HTML, CSS">
-        <meta name="description", content="Homepage of MDFConsulting containing information on the expert consultancy services offered in the">
-        <meta name="google-site-verification" content="6EDMRW9Y61kolWzhI5N4TlK7nScOelVc62EoDMrfFxY" />
-        <meta name="title" MDFConsulting - Expert advise in Biotechnology>
+        <meta name="keywords" content="Expertises, viral, vaccins, gen therapy, therapeutic, proteins, biosimilars, experienced, consulting, consult, advice">
+        <meta name="description", content="A list of all subject our company is experienced in.">
 
-        <title>MDFConsulting - Expert in Biotechnology </title>
+        <title>Our Expertises - MDFConsulting </title>
 
         <link rel="stylesheet" href="mystyle.css">
 
@@ -18,7 +16,6 @@
     <body>
 
         <header>
-            <script src="script.js" async></script>
             <div class="wrapper-header" id="navbar">
                 <h1 class="header-h1">
                     <a href="https://mdfconsulting.eu/">
@@ -57,7 +54,6 @@
                             </ul>
                         </li>
                     </ul>
-
                     <ul class="nav-menu-mobile">
                         <div id="nav-submenu-mobile5" class="nav-submenu-mobile">
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp About us
@@ -82,10 +78,10 @@
                         <div id="nav-submenu-mobile2" class="nav-submenu-mobile">
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Services
                                 <ul id="nav-submenu-list-mobile2" class="nav-submenu-list-mobile">
-                                    <li><a href="https://mdfconsulting.eu/services#projectbased">- Project Based</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services#assays">- Assays</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services#processdesign">- Process Design</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services#batchproduction">- Support Batch Production</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#processes">- Processes</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#consultancy">- Consultancy</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#processoptimization">- Process Optimization</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#processoptimization">- Batch Production</a></li>
                                     <li><a href="https://mdfconsulting.eu/services#trainings">- Trainings</a></li>
                                 </ul>
                             </li>
@@ -114,46 +110,85 @@
                 </div>
             </div>
         </header>  
+        <script src="script.js"></script>
 
-        <img class="banner-image-index" src="images/banner5.jpg" alt="A large image">
+        <img class="banner-image-index" src="images/banner6.jpg" alt="A large image">
 
         <div class="wrapper-main">
 
-            <h2 class="main-h2">Expertise-driven Biotechnology consulting</h2>
+            <h2 class="main-h2" style="top: 300px"> Under construction! </h2>
+
+
+            <h2 class="main-h2" style="top: 500px">Our expertises</h2>
+
+            <h3 id="viralvaccins" class="main-h3" style="margin-top: 120px;">Viral Vectors & Vaccins</h3>
+
+            <p class="main-text">At MDFConsulting we specialize in optimizing and scaling up vaccine production processes to combat infectious diseases 
+            like COVID-19, Nipah virus (NiV), and Lassa fever virus (LASV). With expertise in bioprocess engineering, regulatory 
+            compliance, and technology transfer, we empower clients to accelerate the development and manufacturing of life-saving 
+            vaccines. Our expertise spans a wide array of viral pathogens, including high-profile examples such as COVID-19, Nipah virus (NiV),
+            and Lassa fever virus (LASV). For COVID-19, we contributed to the rapid development and scale-up of mRNA-based 
+            vaccine candidates, leveraging innovative approaches to meet the urgent global demand. Similarly, our work on NiV and 
+            LASV involved streamlining production processes and overcoming challenges associated with these emerging infectious
+            diseases.</p>
+
+            <h3 id="gentherapy" class="main-h3">Gen Therapy (inc AAV)</h3>
+
+            <p class="main-text"> At MDFConsulting, we specialize in pioneering gene therapy solutions for genetic disorders such as ALS, Huntington's
+                disease, and hemophilia B. Our expertise extends to groundbreaking treatments like Glybera, the first approved gene
+                therapy in Europe for familial lipoprotein lipase deficiency. Focused on targeting underlying genetic mutations,
+                our therapies aim to provide tangible improvements in patient outcomes. Whether it's enhancing motor neuron function
+                in ALS, modifying disease progression in Huntington's, or restoring clotting factor production in hemophilia B,
+                we're committed to advancing gene therapy research. Partner with us to translate cutting-edge science into 
+                transformative treatments and improve the lives of patients worldwide. </p>
+
+
+            <h3 id="therapeuticproteins" class="main-h3">Therapeutic Proteins & Antibodies</h3>
+
+            <p class="main-text"> Specializing in the development of therapeutic proteins, we at MDFConsulting leverage cutting-edge techniques to 
+                engineer proteins that address various medical needs. Whether it's designing monoclonal antibodies for cancer therapy,
+                optimizing enzyme replacement therapies for metabolic disorders, or engineering cytokines for immunotherapy, our
+                expertise covers a wide range of therapeutic applications. With a focus on precision and efficacy, we collaborate 
+                closely with clients to navigate the complexities of protein engineering, from target identification and optimization
+                to preclinical testing and regulatory approval. Partner with us to accelerate the development of novel therapeutic
+                proteins and bring innovative treatments to patients in need. </p>
+
+                
+            <h3 id="biosimilars" class="main-h3"> Biosimilars & Enzymes</h3>
+
+            <p class="main-text"> Biosimilars represent an innovative approach to expanding access to biologic therapies. At MDFConsulting, we specialize
+                in navigating the complex landscape of biosimilar development. Our expertise encompasses every stage of the process, 
+                from initial comparative analytical studies to regulatory approval. By leveraging our experience and strategic 
+                insights, we help clients optimize development pathways, ensuring that biosimilars meet rigorous standards for safety,
+                efficacy, and quality. Partner with us to capitalize on the opportunities presented by biosimilars and contribute
+                to making high-quality biologic therapies more accessible to patients worldwide. </p>
+
+            <h3 id="bloodfactors" class="main-h3"> Blood Factors</h3>
+
+            <p class="main-text"> lorem30 </p>                
+                
+
+            <h3 id="nanoparticles" class="main-h3"> Nano Particles</h3>
+
+            <p class="main-text"> lorem30 </p>         
             
-            <h2 class="main-h2" style="top: 600px"> Under construction! </h2>
+            <h3 id="medicaldevices" class="main-h3"> (Hand held) Medical Devices</h3>
 
-            <h3 class="main-h3" style="margin-top: 120px;"> Welcome to MDFConsulting!</h3>
-            
-            <p> With a deep understanding of the ever-evolving landscape
-                of biotechnology, we offer expert guidance and strategic insights to propel your projects forward.</p>
-            
-            <p> Backed by years of hands-on experience and a passion for innovation, MDFConsulting specializes in navigating the
-                complexities of biotechnology. Whether you're a startup seeking direction in product development, a research team 
-                aiming to optimize processes, or an established firm looking to stay ahead of the curve, we tailor our services to meet
-                your unique needs.</p>
-            
-            <h3 class="main-h3">Our services</h3>
-
-            <p> Our approach is rooted in collaboration and tailored solutions. We work closely with clients to identify challenges,
-                uncover opportunities, and develop customized strategies for success. From molecular biology to genetic engineering, 
-                pharmaceuticals to bioinformatics, we provide comprehensive support across a wide range of disciplines within the
-                biotechnology sector.</p>
-
-            <p> At MDFConsulting, our mission is to empower businesses and organizations to
-                 thrive in the dynamic world of biotechnology. Let us be your trusted partner on the path to innovation and excellence. </p>
-
-
-            <h3 class="main-h3"> Meet our experts</h3>     
-            <p> Contact us today to learn more about how we can help you achieve your goals in the exciting field of biotechnology. </p>
+            <p class="main-text"> lorem30 </p>      
 
             <div class='carousel'>
                 <div class='carousel__item'> content #1</div>
-                <div class='carousel__item'> content #2</div>
+                <div class='carousel__item carousel__item__selected '> content #2</div>
                 <div class='carousel__item'> content #3</div>
+                <div class='carousel__nav'>
+                    <span class='carousel__button'></span>
+                    <span class='carousel__button carousel__button__selected'></span>
+                    <span class='carousel__button'></span>
+                </div>
+
 
             </div>
-
+                
 
         </div>
 
