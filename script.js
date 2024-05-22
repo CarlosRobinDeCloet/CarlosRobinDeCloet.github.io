@@ -97,5 +97,4 @@ document.querySelectorAll(".carousel").forEach(carousel=> {
     buttons[0].classList.add('carousel__button__selected');
 });
 
-
     
