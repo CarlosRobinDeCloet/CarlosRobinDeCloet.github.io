@@ -176,7 +176,7 @@
             <p class="main-text"> lorem30 </p>      
 
             <div class="carousel">
-                <div class="carousel__item"> content #1</div>
+                <div class="carousel__item" style="color: red;"> content #1</div>
                 <div class="carousel__item"> content #2</div>
                 <div class="carousel__item"> content #3</div>
             </div>
