@@ -232,17 +232,19 @@ Styling for the footer.
 
 .carousel__nav {
     width: 100%;
-    padding: 20px 200px;
+    padding: 20px 0;
     border-radius: 25px;
     position: absolute;
     bottom: 0;
     left: 0;
+    background-color: ;
     text-align: center;
 }
 
 .carousel__button {
     width: 10px;
     height: 10px;
+    padding: 20px;
     display: inline-block;
     background: rgba(255, 255, 255, 0.2);
     border-radius: 50%;
@@ -253,6 +255,7 @@ Styling for the footer.
 .carousel__button__selected {
     background: rgba(255, 255, 255, 0.5)
 }
+
 
 body > footer {             /* Sets footer under body*/
   position: sticky;
