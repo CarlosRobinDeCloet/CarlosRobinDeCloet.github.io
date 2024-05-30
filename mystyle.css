@@ -255,6 +255,9 @@ Styling for the footer.
     background: rgba(255, 255, 255, 0.5)
 }
 
+.carousel_image {
+    object-fit: cover;
+}
 
 body > footer {             /* Sets footer under body*/
   position: sticky;
