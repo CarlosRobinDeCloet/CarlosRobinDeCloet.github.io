@@ -257,6 +257,8 @@ Styling for the footer.
 
 .carousel_image {
     object-fit: cover;
+    width: 50px;
+    height: 100px;
 }
 
 body > footer {             /* Sets footer under body*/
