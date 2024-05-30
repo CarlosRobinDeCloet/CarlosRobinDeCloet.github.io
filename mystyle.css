@@ -233,10 +233,11 @@ Styling for the footer.
 .carousel__nav {
     width: 100%;
     padding: 20px 0;
+    border-radius: 25px;
     position: absolute;
     bottom: 0;
     left: 0;
-    background-color: red;
+    background-color: ;
     text-align: center;
 }
 
