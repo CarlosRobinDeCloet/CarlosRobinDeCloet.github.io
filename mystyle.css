@@ -64,7 +64,7 @@ p {
 
 .header-nav {
     display: inline-block;
-    background-color: white;
+    background-color: red;
     text-align: center;
     width: fit-content;
     height: 120px;
