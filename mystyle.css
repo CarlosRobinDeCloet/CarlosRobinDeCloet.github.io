@@ -216,9 +216,10 @@ Styling for the footer.
 
 .carousel__item{
     height: 400px;
-    width: 80%;
+    width: 100%;
     border-radius: 25px;
     background: grey;
+    padding: 1em;
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
     font-size: 2em;
