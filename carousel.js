@@ -5,6 +5,9 @@ document.querySelectorAll(".carousel").forEach(carousel=> {
         return `<span class='carousel__button'></span>`;
     });
 
+    console.log(items);
+    console.log(buttonsHtml);
+
     carousel.insertAdjacentHTML('beforeend', `
         <div class='carousel__nav'>
             ${ buttonsHtml.join('')}
