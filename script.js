@@ -1,4 +1,3 @@
-
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-menu-mobile");
 const subNavMenu1 = document.getElementById("nav-submenu-mobile1");
