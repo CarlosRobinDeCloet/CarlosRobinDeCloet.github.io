@@ -212,11 +212,13 @@ Styling for the footer.
 
 .carousel {
     position: relative;
+
 }
 
 .carousel__item{
     height: 400px;
-    width: 80%;
+    width: 90%;
+    margin: auto;
     border-radius: 25px;
     background: grey;
     font-family: 'Quicksand', sans-serif;
