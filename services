@@ -131,6 +131,13 @@
                  short-term solutions or long-term partnerships. Trusted by startups to global players, we accelerate innovation, mitigate risks, and optimize resources.
                 Let's collaborate to propel your biotech ambitions forward. With our project-based support, your success is our mission.</p>
 
+            <div class="carousel" style="position: relative;">
+                <div class="carousel__item"> content #1</div>
+                <div class="carousel__item"> content #2</div>
+                <div class="carousel__item"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
+            </div>
+            <script src="carousel.js"></script>  
+
             <h3 id="assays" class="main-h3">Assays</h3>
 
             <p class="main-text"> 
@@ -142,6 +149,13 @@
                 With our collaborative approach and commitment to excellence, we empower your organization to achieve new levels of success in biotechnology.
                 Let's partner together to refine your existing projects and processes, paving the way for breakthroughs in science and technology.
             </p>
+
+            <div class="carousel" style="position: relative;">
+                <div class="carousel__item"> content #1</div>
+                <div class="carousel__item"> content #2</div>
+                <div class="carousel__item"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
+            </div>
+            <script src="carousel.js"></script>  
 
             <h3 id="processdesign" class="main-h3">Process Design (Technology & Equipment)</h3>
 
