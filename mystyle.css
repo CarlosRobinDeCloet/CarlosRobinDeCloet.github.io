@@ -216,7 +216,7 @@ Styling for the footer.
 
 .carousel__item{
     height: 400px;
-    width: 100%;
+    width: 80%;
     border-radius: 25px;
     background: grey;
     font-family: 'Quicksand', sans-serif;
