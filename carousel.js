@@ -16,7 +16,10 @@ document.querySelectorAll(".carousel").forEach(carousel=> {
 
     const buttons = carousel.querySelectorAll('.carousel__button');
 
+    console.log(buttons);
+
     buttons.forEach((button, i) => {
+        console.log(i);
         button.addEventListener('click', () => {
             items.forEach(item => item.classList.remove('carousel__item__selected'));
             buttons.forEach(button => button.classList.remove('carousel__button__selected'));
