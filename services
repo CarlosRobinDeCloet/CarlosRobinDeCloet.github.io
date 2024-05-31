@@ -135,6 +135,10 @@
                 <div class="carousel__item"> content #1</div>
                 <div class="carousel__item"> content #2</div>
                 <div class="carousel__item"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
+                <div class="carousel__item"> content #4</div>
+                <div class="carousel__item"> content #5</div>
+                <div class="carousel__item"> content #6</div>
+                <div class="carousel__item"> content #7</div>
             </div>
             <script src="carousel.js"></script>  
 
