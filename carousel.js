@@ -1,6 +1,6 @@
 
-document.getElementById("carousel1").forEach(carousel=> {
-    const items = carousel.querySelectorAll(".carousel__item");
+const carousel1 = document.getElementById("carousel1");
+    const items = carousel1.children;
     const buttonsHtml = Array.from(items, () => {
         return `<span class='carousel__button'></span>`;
     });
@@ -29,10 +29,10 @@ document.getElementById("carousel1").forEach(carousel=> {
         });
     });
 
-    // select first item on page load
-    items[0].classList.add('carousel__item__selected');
-    buttons[0].classList.add('carousel__button__selected');
-});
+// select first item on page load
+items[0].classList.add('carousel__item__selected');
+buttons[0].classList.add('carousel__button__selected');
+
 
 document.getElementById("carousel2").forEach(carousel=> {
     const items = carousel.querySelectorAll(".carousel__item");
@@ -49,7 +49,7 @@ document.getElementById("carousel2").forEach(carousel=> {
         </div>
     `);
 
-    const buttons = carousel.querySelectorAll('.carousel__button');
+    const buttons = carousel1.querySelectorAll('.carousel__button');
 
     console.log(buttons);
 
