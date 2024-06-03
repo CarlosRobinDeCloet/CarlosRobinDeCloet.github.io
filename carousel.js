@@ -1,5 +1,5 @@
 
-document.getElementById(".carousel1").forEach(carousel=> {
+document.getElementById("carousel1").forEach(carousel=> {
     const items = carousel.querySelectorAll(".carousel__item");
     const buttonsHtml = Array.from(items, () => {
         return `<span class='carousel__button'></span>`;
@@ -34,7 +34,7 @@ document.getElementById(".carousel1").forEach(carousel=> {
     buttons[0].classList.add('carousel__button__selected');
 });
 
-document.getElementById(".carousel2").forEach(carousel=> {
+document.getElementById("carousel2").forEach(carousel=> {
     const items = carousel.querySelectorAll(".carousel__item");
     const buttonsHtml = Array.from(items, () => {
         return `<span class='carousel__button'></span>`;
