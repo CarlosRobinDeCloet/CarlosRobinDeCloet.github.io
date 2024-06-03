@@ -131,14 +131,14 @@
                  short-term solutions or long-term partnerships. Trusted by startups to global players, we accelerate innovation, mitigate risks, and optimize resources.
                 Let's collaborate to propel your biotech ambitions forward. With our project-based support, your success is our mission.</p>
 
-            <div class="carousel" style="position: relative;">
-                <div class="carousel__item"> content #1</div>
-                <div class="carousel__item"> content #2</div>
-                <div class="carousel__item"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
-                <div class="carousel__item"> content #4</div>
-                <div class="carousel__item"> content #5</div>
-                <div class="carousel__item"> content #6</div>
-                <div class="carousel__item"> content #7</div>
+            <div class="carousel" id="carousel1" style="position: relative;">
+                <div class="carousel__item1"> content #1</div>
+                <div class="carousel__item1"> content #2</div>
+                <div class="carousel__item1"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
+                <div class="carousel__item1"> content #4</div>
+                <div class="carousel__item1"> content #5</div>
+                <div class="carousel__item1"> content #6</div>
+                <div class="carousel__item1"> content #7</div>
             </div>
             <script src="carousel.js"></script>  
 
