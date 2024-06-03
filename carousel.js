@@ -36,7 +36,8 @@ buttons1[0].classList.add('carousel__button__selected');
 
 
 const carousel2 = document.getElementById("carousel2");
-    const items2 = carousel2.children;
+    const items02 = carousel2.children;
+    const items2 = Array.from(items02);
     const buttonsHtml2 = Array.from(items2, () => {
         return `<span class='carousel__button'></span>`;
     });
