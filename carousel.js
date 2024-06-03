@@ -1,6 +1,6 @@
 
 const carousel1 = document.getElementById("carousel1");
-    const items1 = carousel1.children;
+    const items1 = carousel1.childNodes;
     const buttonsHtml1 = Array.from(items1, () => {
         return `<span class='carousel__button'></span>`;
     });
