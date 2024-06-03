@@ -8,13 +8,13 @@ const carousel1 = document.getElementById("carousel1");
     console.log(items);
     console.log(buttonsHtml);
 
-    carousel.insertAdjacentHTML('beforeend', `
+    carousel1.insertAdjacentHTML('beforeend', `
         <div class='carousel__nav'>
             ${ buttonsHtml.join('')}
         </div>
     `);
 
-    const buttons = carousel.querySelectorAll('.carousel__button');
+    const buttons = carousel1.querySelectorAll('.carousel__button');
 
     console.log(buttons);
 
@@ -43,7 +43,7 @@ document.getElementById("carousel2").forEach(carousel=> {
     console.log(items);
     console.log(buttonsHtml);
 
-    carousel.insertAdjacentHTML('beforeend', `
+    carousel2.insertAdjacentHTML('beforeend', `
         <div class='carousel__nav'>
             ${ buttonsHtml.join('')}
         </div>
