@@ -158,7 +158,7 @@
                 <div class="carousel__item"> content #2</div>
                 <div class="carousel__item"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
             </div>
-            <script src="carousel.js"></script>  
+            <script src="carousel_services.js"></script>  
 
             <h3 id="processdesign" class="main-h3">Process Design (Technology & Equipment)</h3>
 
