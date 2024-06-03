@@ -132,15 +132,14 @@
                 Let's collaborate to propel your biotech ambitions forward. With our project-based support, your success is our mission.</p>
 
             <div class="carousel" id="carousel1" style="position: relative;">
-                <div class="carousel__item1"> content #1</div>
-                <div class="carousel__item1"> content #2</div>
-                <div class="carousel__item1"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
-                <div class="carousel__item1"> content #4</div>
-                <div class="carousel__item1"> content #5</div>
-                <div class="carousel__item1"> content #6</div>
-                <div class="carousel__item1"> content #7</div>
+                <div class="carousel__item"> content #1</div>
+                <div class="carousel__item"> content #2</div>
+                <div class="carousel__item"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
+                <div class="carousel__item"> content #4</div>
+                <div class="carousel__item"> content #5</div>
+                <div class="carousel__item"> content #6</div>
+                <div class="carousel__item"> content #7</div>
             </div>
-            <script src="carousel.js"></script>  
 
             <h3 id="assays" class="main-h3">Assays</h3>
 
@@ -154,7 +153,7 @@
                 Let's partner together to refine your existing projects and processes, paving the way for breakthroughs in science and technology.
             </p>
 
-            <div class="carousel" style="position: relative;">
+            <div class="carousel2" style="position: relative;">
                 <div class="carousel__item"> content #1</div>
                 <div class="carousel__item"> content #2</div>
                 <div class="carousel__item"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
