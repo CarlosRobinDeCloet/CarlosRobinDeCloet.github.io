@@ -28,21 +28,25 @@
                         <li><a href="https://mdfconsulting.eu/aboutus" class="nav-link">About us</a></li>
                         <li><a href="https://mdfconsulting.eu/expertises" class="nav-link">Expertises</a>
                             <ul>
-                                <li><a href="https://mdfconsulting.eu/expertises#viralvaccins">- Viral Vectors & Vaccines</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#viralvaccins">- Vaccines</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#viralvectors">- Viral Vectors</a></li>
                                 <li><a href="https://mdfconsulting.eu/expertises#gentherapy">- Gen Therapy</a></li>
                                 <li><a href="https://mdfconsulting.eu/expertises#therapeuticproteins">- Therapeutic proteins & Antibodies</a></li>
                                 <li><a href="https://mdfconsulting.eu/expertises#biosimilars">- Biosimilars & Enzymes</a></li>
                                 <li><a href="https://mdfconsulting.eu/expertises#bloodfactors">- Blood Factors</a></li>
                                 <li><a href="https://mdfconsulting.eu/expertises#nanoparticles">- Nano Particles</a></li>
                                 <li><a href="https://mdfconsulting.eu/expertises#medicaldevices">- Medical Devices</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#scale-up">- Proces Scale-up</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#validation">- Proces Validation</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#cleaning">- Cleaning Validation</a></li>
+                                <li><a href="https://mdfconsulting.eu/expertises#reuse">- Reuse of Disposables / Singe-use</a></li>
                             </ul>
                         </li>
                         <li><a href="https://mdfconsulting.eu/services" class="nav-link">Services</a>
                             <ul>
-                                <li><a href="https://mdfconsulting.eu/services#projectbased">- Project Based</a></li>
+                                <li><a href="https://mdfconsulting.eu/services#processes">- Processes</a></li>
                                 <li><a href="https://mdfconsulting.eu/services#assays">- Assays</a></li>
                                 <li><a href="https://mdfconsulting.eu/services#processdesign">- Process Design</a></li>
-                                <li><a href="https://mdfconsulting.eu/services#batchproduction">- Support Batch Production</a></li>
                                 <li><a href="https://mdfconsulting.eu/services#trainings">- Trainings</a></li>
                             </ul>
                         </li>
@@ -65,13 +69,18 @@
                         <div id="nav-submenu-mobile1" class="nav-submenu-mobile">
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Expertises
                                 <ul id="nav-submenu-list-mobile1" class="nav-submenu-list-mobile">
-                                    <li><a href="https://mdfconsulting.eu/expertises#viralvaccins">- Viral Vectors & Vaccines</a></li>
+                                    <li><a href="https://mdfconsulting.eu/expertises#viralvaccins">- Vaccines</a></li>
+                                    <li><a href="https://mdfconsulting.eu/expertises#viralvectors">- Viral Vectors</a></li>
                                     <li><a href="https://mdfconsulting.eu/expertises#gentherapy">- Gen Therapy</a></li>
                                     <li><a href="https://mdfconsulting.eu/expertises#therapeuticproteins">- Therapeutic proteins & Antibodies</a></li>
                                     <li><a href="https://mdfconsulting.eu/expertises#biosimilars">- Biosimilars & Enzymes</a></li>
                                     <li><a href="https://mdfconsulting.eu/expertises#bloodfactors">- Blood Factors</a></li>
                                     <li><a href="https://mdfconsulting.eu/expertises#nanoparticles">- Nano Particles</a></li>
                                     <li><a href="https://mdfconsulting.eu/expertises#medicaldevices">- Medical Devices</a></li>
+                                    <li><a href="https://mdfconsulting.eu/expertises#scale-up">- Proces Scale-up</a></li>
+                                    <li><a href="https://mdfconsulting.eu/expertises#validation">- Proces Validation</a></li>
+                                    <li><a href="https://mdfconsulting.eu/expertises#cleaning">- Cleaning Validation</a></li>
+                                    <li><a href="https://mdfconsulting.eu/expertises#reuse">- Reuse of Disposables / Singe-use</a></li>
                                 </ul>
                             </li>
                         </div>
@@ -79,9 +88,8 @@
                             <li class="nav-submenu-mobile-li">&nbsp &nbsp &nbsp Services
                                 <ul id="nav-submenu-list-mobile2" class="nav-submenu-list-mobile">
                                     <li><a href="https://mdfconsulting.eu/services#processes">- Processes</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services#consultancy">- Consultancy</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services#processoptimization">- Process Optimization</a></li>
-                                    <li><a href="https://mdfconsulting.eu/services#processoptimization">- Batch Production</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#assays">- Assays</a></li>
+                                    <li><a href="https://mdfconsulting.eu/services#processdesign">- Process Design</a></li>
                                     <li><a href="https://mdfconsulting.eu/services#trainings">- Trainings</a></li>
                                 </ul>
                             </li>
@@ -130,7 +138,7 @@
             LASV involved streamlining production processes and overcoming challenges associated with these emerging infectious
             diseases.</p>
 
-            <h3 class="main-h3">Viral Vectors</h3>
+            <h3 id="viralvectors" class="main-h3">Viral Vectors</h3>
 
             <p> Something about viral vectors</p>
 
@@ -178,19 +186,19 @@
 
             <p class="main-text"> lorem30 </p>      
 
-            <h3 class="main-h3"> Proces Scale-up </h3>
+            <h3 id="scale-up" class="main-h3"> Proces Scale-up </h3>
 
             <p> . </p>
 
-            <h3 class="main-h3"> Proces Validation </h3>
+            <h3 id="validation" class="main-h3"> Proces Validation </h3>
 
             <p> Hier kan je wat typen </p>
 
-            <h3 class="main-h3"> Cleaning Validation </h3>
+            <h3 id="cleaning" class="main-h3"> Cleaning Validation </h3>
 
             <p> . </p>
 
-            <h3 class="main-h3"> Reuse of Disposables / Singe-use</h3>
+            <h3 id="reuse"class="main-h3"> Reuse of Disposables / Singe-use</h3>
 
             <p> . </p>
 
