@@ -194,12 +194,12 @@
 
             <p> . </p>
 
-            <div class="carousel" style="position: relative;">
+            <!-- <div class="carousel" style="position: relative;">
                 <div class="carousel__item"> content #1</div>
                 <div class="carousel__item"> content #2</div>
                 <div class="carousel__item"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
             </div>
-            <script src="carousel.js"></script>  
+            <script src="carousel.js"></script>   -->
 
 
         </div>
