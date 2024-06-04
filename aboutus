@@ -117,16 +117,14 @@
 
         <div class="wrapper-main">
 
-            <h2 class="main-h2" style="top: 300px"> Under construction! </h2>
             
             <h2 class="main-h2" style="top: 500px">About us</h2>
 
             <h3 id="processes" class="main-h3" style="margin-top: 120px;">Expert in Biotechnology </h3>
 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio eos qui, eum eaque dolorem doloribus ullam praesentium accusantium nesciunt quo animi mollitia, officia soluta autem inventore porro facere temporibus provident beatae magnam quidem ut dicta veniam! Molestiae placeat laboriosam, veniam rerum, repellat sapiente omnis nam doloribus, voluptates odit ex in?
-            
-            <p class="main-text">
-                .</p>
+            <h3 class="main-h3"> Meet our experts</h3>   
+
+            <p> Contact us today to learn more about how we can help you achieve your goals in the exciting field of biotechnology. </p>
 
 
 
@@ -135,7 +133,6 @@
          <footer class="footer-main">
             <div class="wrapper-footer">
                 <div class="footer-textbox">
-                    <p class="footer-text"> About us </p>
                     <p class="footer-text"> MDFConsulting is your partner for consult needs in biotechnology.</p>
                 </div>
                 <div class="footer-textbox">

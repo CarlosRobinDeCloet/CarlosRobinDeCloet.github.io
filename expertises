@@ -116,12 +116,10 @@
 
         <div class="wrapper-main">
 
-            <h2 class="main-h2" style="top: 300px"> Under construction! </h2>
-
 
             <h2 class="main-h2" style="top: 500px">Our expertises</h2>
 
-            <h3 id="viralvaccins" class="main-h3" style="margin-top: 120px;">Viral Vectors & Vaccins</h3>
+            <h3 id="viralvaccins" class="main-h3" style="margin-top: 120px;">Vaccins</h3>
 
             <p class="main-text">At MDFConsulting we specialize in optimizing and scaling up vaccine production processes to combat infectious diseases 
             like COVID-19, Nipah virus (NiV), and Lassa fever virus (LASV). With expertise in bioprocess engineering, regulatory 
@@ -131,6 +129,10 @@
             vaccine candidates, leveraging innovative approaches to meet the urgent global demand. Similarly, our work on NiV and 
             LASV involved streamlining production processes and overcoming challenges associated with these emerging infectious
             diseases.</p>
+
+            <h3 class="main-h3">Viral Vectors</h3>
+
+            <p> Something about viral vectors</p>
 
             <h3 id="gentherapy" class="main-h3">Gen Therapy (inc AAV)</h3>
 
@@ -168,13 +170,29 @@
             <p class="main-text"> lorem30 </p>                
                 
 
-            <h3 id="nanoparticles" class="main-h3"> Nano Particles</h3>
+            <h3 id="nanoparticles" class="main-h3"> Nano Particles for Disease Treatment</h3>
 
             <p class="main-text"> lorem30 </p>         
             
             <h3 id="medicaldevices" class="main-h3"> (Hand held) Medical Devices</h3>
 
             <p class="main-text"> lorem30 </p>      
+
+            <h3 class="main-h3"> Proces Scale-up </h3>
+
+            <p> . </p>
+
+            <h3 class="main-h3"> Proces Validation </h3>
+
+            <p> Hier kan je wat typen </p>
+
+            <h3 class="main-h3"> Cleaning Validation </h3>
+
+            <p> . </p>
+
+            <h3 class="main-h3"> Reuse of Disposables / Singe-use</h3>
+
+            <p> . </p>
 
             <div class="carousel" style="position: relative;">
                 <div class="carousel__item"> content #1</div>
@@ -189,7 +207,6 @@
          <footer class="footer-main">
             <div class="wrapper-footer">
                 <div class="footer-textbox">
-                    <p class="footer-text"> About us </p>
                     <p class="footer-text"> MDF Consulting is your partner for consult needs in biotechnology.</p>
                 </div>
                 <div class="footer-textbox">

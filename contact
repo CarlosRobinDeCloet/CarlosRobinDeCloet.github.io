@@ -117,8 +117,7 @@
 
         <div class="wrapper-main">
 
-            <h2 class="main-h2" style="top: 300px"> Under construction! </h2>
-            
+           
             <h2 class="main-h2" style="top: 500px">Contact us</h2>
 
             <h3 id="email" class="main-h3" style="margin-top: 120px;"> Email</h3>
@@ -136,7 +135,6 @@
          <footer class="footer-main">
             <div class="wrapper-footer">
                 <div class="footer-textbox">
-                    <p class="footer-text"> About us </p>
                     <p class="footer-text"> MDFConsulting is your partner for consult needs in biotechnology.</p>
                 </div>
                 <div class="footer-textbox">

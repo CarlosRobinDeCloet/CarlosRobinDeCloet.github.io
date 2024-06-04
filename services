@@ -117,9 +117,18 @@
 
         <div class="wrapper-main">
 
-            <h2 class="main-h2" style="top: 300px"> Under construction! </h2>
             
             <h2 class="main-h2" style="top: 500px">Our services</h2>
+
+            <h3 class="main-h3">Our services</h3>
+
+            <p> Our approach is rooted in collaboration and tailored solutions. We work closely with clients to identify challenges,
+                uncover opportunities, and develop customized strategies for success. From molecular biology to genetic engineering, 
+                pharmaceuticals to bioinformatics, we provide comprehensive support across a wide range of disciplines within the
+                biotechnology sector.</p>
+
+            <p> At MDFConsulting, our mission is to empower businesses and organizations to
+                 thrive in the dynamic world of biotechnology. Let us be your trusted partner on the path to innovation and excellence. </p>
 
             <h3 id="processes" class="main-h3" style="margin-top: 120px;">Processes</h3>
 
@@ -131,8 +140,20 @@
                  short-term solutions or long-term partnerships. Trusted by startups to global players, we accelerate innovation, mitigate risks, and optimize resources.
                 Let's collaborate to propel your biotech ambitions forward. With our project-based support, your success is our mission.</p>
 
+            <ul>
+                <li> Process Development</li>
+                <li> Process Optimization</li>
+                <li> Process Scale-up</li>
+                <li> Process Validation</li>
+                <li> Cleaning Validation</li>
+                <li> Technology Transfer</li>
+                <li> Production Clinical Trial Material</li>
+                <li> Upgrade Production Quality Level (ISO TO GMP)</li>
+                <li> Support Batch Production</li>
+            </ul>
+
             <div class="carousel" id="carousel1" style="position: relative;">
-                <div class="carousel__item"> content #1</div>
+                <div class="carousel__item"> Process Development</div>
                 <div class="carousel__item"> content #2</div>
                 <div class="carousel__item"> <img class="carousel_image" src="images/dna.jpg" alt=""></div>
                 <div class="carousel__item"> content #4</div>
@@ -153,6 +174,13 @@
                 Let's partner together to refine your existing projects and processes, paving the way for breakthroughs in science and technology.
             </p>
 
+
+            <ul>
+                <li>Assay Development</li>
+                <li>Assay Validation</li>
+                <li>Assay Transfer</li>
+            </ul>
+
             <div class="carousel" id="carousel2" style="position: relative;">
                 <div class="carousel__item"> content #1</div>
                 <div class="carousel__item"> content #2</div>
@@ -170,12 +198,6 @@
                 your team to implement changes that deliver measurable results. With our process optimization services, you'll not only enhance operational 
                 efficiency but also gain a competitive edge in the market. Let us help you unlock the full potential of your processes and propel your organization toward 
                 success in the rapidly evolving biotech industry.
-            </p>
-
-            <h3 id="batchproduction" class="main-h3">Support Batch Production</h3>
-
-            <p class="main-text"> 
-                lorem50
             </p>
 
                 
@@ -196,7 +218,6 @@
          <footer class="footer-main">
             <div class="wrapper-footer">
                 <div class="footer-textbox">
-                    <p class="footer-text"> About us </p>
                     <p class="footer-text"> MDFConsulting is your partner for consult needs in biotechnology.</p>
                 </div>
                 <div class="footer-textbox">

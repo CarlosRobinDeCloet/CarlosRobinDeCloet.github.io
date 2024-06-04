@@ -116,8 +116,6 @@
 
         <div class="wrapper-main">
 
-            <h2 class="main-h2" style="top: 300px"> Under construction! </h2>
-
 
             <h2 class="main-h2" style="top: 500px">Our expertises</h2>
 
@@ -195,7 +193,6 @@
          <footer class="footer-main">
             <div class="wrapper-footer">
                 <div class="footer-textbox">
-                    <p class="footer-text"> About us </p>
                     <p class="footer-text"> MDF Consulting is your partner for consult needs in biotechnology.</p>
                 </div>
                 <div class="footer-textbox">
